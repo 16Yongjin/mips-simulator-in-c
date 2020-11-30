@@ -1,6 +1,14 @@
 # MIPS Simulator in C
 
+20-2학기 컴퓨터구조 기말 팀프로젝트 MIPS 시뮬레이터 구현
+
 Repl.it 링크: https://repl.it/@yongjin0802/mips-simulator-team-0x03#main.c
+
+## 팀원
+
+- 조용진 (팀장)
+- 김상우
+- 오석진
 
 ## 실행법
 
